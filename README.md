@@ -38,4 +38,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 source https://www.youtube.com/watch?v=5miHyP6lExg
 
-payment is not realized 
+payment is not realized yet
